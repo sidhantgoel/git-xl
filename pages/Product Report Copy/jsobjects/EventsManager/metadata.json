@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "EventsManager",
+    "pageId": "Product Report Copy",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Product Report Copy_EventsManager",
+  "deleted": false,
+  "gitSyncId": "64671372fb2607701307c379_646c93a55b7a784f108989fa"
+}

@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "Config",
+    "pageId": "A Force Roster Copy",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "pods",
+        "value": "[\"New Developers Pod\", \"Team Managers Pod\", \"BE Coders Pod\", \"FE Coders Pod\", \"App Viewers Pod\", \"UI Builders Pod\"]"
+      },
+      {
+        "name": "l1Functions",
+        "value": "[\"Engineering\", \"Product\", \"Quality\", \"Design\"]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "A Force Roster Copy_Config",
+  "deleted": false,
+  "gitSyncId": "64671372fb2607701307c379_646c93cb5b7a784f10898b09"
+}

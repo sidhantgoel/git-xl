@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "PodChartsManager",
+    "pageId": "A-force stats Copy",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "types",
+        "value": "{\n  \"Bug\": 0,\n  \"Feature\": 0,\n  \"Troubleshooting\": 0,\n  \"Suggestion\": 0,\n  \"Question\": 0\n}"
+      },
+      {
+        "name": "actions",
+        "value": "{\n  \"Needs Documentation\": 0,\n  \"Add to Forum\": 0\n}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "A-force stats Copy_PodChartsManager",
+  "deleted": false,
+  "gitSyncId": "64671372fb2607701307c379_646c93d8ef177c62ce8659a0"
+}

@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "ChartsManager",
+    "pageId": "A-force stats Copy",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "A-force stats Copy_ChartsManager",
+  "deleted": false,
+  "gitSyncId": "64671372fb2607701307c379_646c93d8ef177c62ce8659aa"
+}

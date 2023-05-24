@@ -1,0 +1,44 @@
+{
+  "unpublishedCollection": {
+    "name": "ColorsManager",
+    "pageId": "A-force stats Copy",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "Appsmith",
+        "value": "\"#eaac8b\""
+      },
+      {
+        "name": "Intercom",
+        "value": "\"#5e7ce2\""
+      },
+      {
+        "name": "Discord",
+        "value": "\"#92b4f4\""
+      },
+      {
+        "name": "Others",
+        "value": "\"#5e6472\""
+      },
+      {
+        "name": "Green",
+        "value": "\"#95d5b2\""
+      },
+      {
+        "name": "Red",
+        "value": "\"#f4978e\""
+      },
+      {
+        "name": "Colors",
+        "value": "[\"#006d77\", \"#95d5b2\", \"#fcb1a6\", \"#ffd6ba\", \"#f2c078\"]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "A-force stats Copy_ColorsManager",
+  "deleted": false,
+  "gitSyncId": "64671372fb2607701307c379_646c93d8ef177c62ce8659a6"
+}

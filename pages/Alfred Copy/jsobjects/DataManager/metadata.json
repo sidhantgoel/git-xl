@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "DataManager",
+    "pageId": "Alfred Copy",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "assignment",
+        "value": "{\n  \"App Viewers Pod\": '',\n  \"BE Coders Pod\": '',\n  \"FE Coders Pod\": '',\n  \"New Developers Pod\": '',\n  \"Team Managers Pod\": '',\n  \"UI Builders Pod\": ''\n}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Alfred Copy_DataManager",
+  "deleted": false,
+  "gitSyncId": "64671372fb2607701307c379_646c93f65b7a784f10898b95"
+}
